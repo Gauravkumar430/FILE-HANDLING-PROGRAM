@@ -66,3 +66,5 @@ Appending results in report generation tools.
 
 📌 Conclusion
 This program is a great introduction to file handling in C. It demonstrates how to work with text files using basic file operations like creating, writing, reading, and appending. These are foundational skills for any programmer and are especially useful in systems programming, embedded systems, and desktop software development.
+
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/e4a166fa-5ced-4085-9896-c6847fa41103)
